@@ -56,7 +56,4 @@ Cost Drivers:Identifies which patient segments or diagnosis types contribute mos
   Resource Allocation: Helps in optimizing bed and staff availability based on admission trends.
   Policy Making: Supports development of cost-reduction strategies and better insurance partnerships.
   Equity in Care: Highlights any disparities in treatment or billing based on race or gender.
-  Performance Monitoring:Enables hospital managers to track KPIs and department-level efficiency.
-
-
-screenshorts of dashbroad
+  Performance Monitoring:Enables hospital managers to track KPIs and department-level efficiently.
