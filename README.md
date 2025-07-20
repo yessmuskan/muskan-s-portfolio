@@ -12,7 +12,6 @@ This Power BI dashboard provides a detailed overview of healthcare performance i
 * To identify patterns and anomalies across different patient groups and departments.
 * To provide healthcare administrators with data-driven insights for policy planning, cost optimization, and improved patient care delivery.
 
----
 
  Key Technologies Used:
 
@@ -20,6 +19,8 @@ Power BI (for data visualization and modeling)
 DAX (Data Analysis Expressions) (for calculated measures and KPIs)
 Power Query Editor(for data transformation)
   Data Modeling Tools (for building relationships and hierarchies)
+  raw data : [Healthcare Google Sheet](https://docs.google.com/spreadsheets/d/1e75zON289h12U-NsNeHvNh496adZndbS/edit?gid=23688961#gid=23688961)
+
 
 Data Source:
  structured healthcare dataset containing:
